@@ -1,0 +1,3 @@
+language: cpp
+script:
+    gcc main.cpp -o example.out
